@@ -1,7 +1,7 @@
 # Kaggle Project
 This repository contains two project using data retrived from Kaggle.
 
-这个文件包含两个项目，数据均来源于Kaggle。
+此文件包含两个项目，数据均来源于Kaggle。
 
 E-Commerce data is a transnational data set which collects all the transaction occuring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. uses RFM model.
 
